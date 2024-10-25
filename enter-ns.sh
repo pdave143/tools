@@ -1,5 +1,6 @@
 #!/bin/bash
 VERSION=1.0.0
+AUTHOR="Peter N"
 : '
 Description: 
   This tool can be used for debugging, where you do not have access
